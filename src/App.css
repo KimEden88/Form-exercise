@@ -1,0 +1,40 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dafffb;
+  font-family: 'Amatic SC', cursive;
+  color: #001c30;
+}
+#root {
+  text-align: center;
+}
+
+h2,
+h3,
+h4 {
+  font-size: 2.6rem;
+}
+p {
+  font-size: 1.6rem;
+  letter-spacing: 2px;
+}
+input {
+  color: #001c30;
+  font-weight: 700;
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem 1.5rem;
+  border: 2px solid #001c30;
+  border-radius: 22px;
+  background-color: #dafffb;
+}
+
+button {
+  padding: 0.3rem 1rem;
+  border: 2px solid #001c30;
+  border-radius: 22px;
+  background-color: #dafffb;
+  margin: 0.5rem;
+}
